@@ -1,0 +1,86 @@
+------------------------------------------------------------------------------------------Main Home
+------------------------------------------------------------------------Header 2 fr
+------------------------------------------------------------------------Menu 3fr
+------------------------------------------------------------------------Section 3fr
+------------------------------------------------------------------------Footer 1 fr
+----------------------------------------------
+------------------------------------------------------------------------------------------Main Category
+------------------------------------------------------------------------Header 2 fr
+------------------------------------------------------------------------Menu 3fr
+------------------------------------------------------------------------Section Auto
+------------------------------------------------------------------------Footer 1 fr
+----------------------------------------------
+------------------------------------------------------------------------------------------Main Product
+------------------------------------------------------------------------Header 2 fr
+------------------------------------------------------------------------Menu 4fr
+------------------------------------------------------------------------Section 3fr
+------------------------------------------------------------------------Footer 1 fr
+----------------------------------------------
+------------------------------------------------------------------------------------------Main Checkout
+------------------------------------------------------------------------Header 2 fr
+------------------------------------------------------------------------Aside 6fr
+------------------------------------------------------------------------Footer 1 fr
+----------------------------------------------
+-Things learnt:
+-The business of using (Tailwind) React Component Libraries.
+-More Tailwind CSS tricks used as alternative to Vanilla CSS
+-More effective use of TypeScript working structure
+-The complexity and effort needed to make very functional Apps
+----------------------------------------------
+Local storage data persist
+Paystack API checkout
+3 products, Nigerian jerseys Home and Away, African
+Main image and writeup change every 5 seconds
+when hover, small animation, image turn like clock, background color change
+----------------------------------------------
+Header - (Home)
+Menu -> Nav - Site mission <-> Nav - Feature product (Random)
+Section -> Article You May also like - Show 3, 1 each category, random changing
+Footer
+
+Header (Category)
+Menu -> Nav - Category mission <-> Nav - Feature product Random changing
+Section -> Article All products in category
+Footer
+
+Header (Product)
+Menu -> Nav - Random football quote <-> Nav - Full Feature product info
+Section -> Article You May also like - Show 3 product same category, random changing
+Footer
+
+Modal Add to cart confirmation
+Modal Checkout Summary
+
+Header (Checkout)
+Aside -> Div - Billing Details/Summary <-> Div - Success Confirmation
+Footer
+----------------------------------------------
+Audiophile e-commerce website
+https://www.frontendmentor.io/challenges/audiophile-ecommerce-website-C8cuSd_wx
+
+How To Integrate Paystack Checkout With Only HTML, CSS & JS.
+https://medium.com/@stephenjudeso/how-to-integrate-paystack-checkout-in-5mins-with-only-html-css-js-84d25ca4d6ef
+
+Paystack e-commerce guy
+https://ilerioluwa.vercel.app/
+https://github.com/Abu-Abdillah1/ileri-frontend
+
+local storage
+https://idrisaltamimi.github.io/audiophile/
+https://github.com/idrisaltamimi/audiophile
+
+https://audiophile-ecommerce-mspayneii.netlify.app/
+https://github.com/idrisaltamimi/audiophile
+
+https://fem-audiophile-ecommerce-five.vercel.app/
+https://github.com/dmuri/fem_audiophile-ecommerce
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+
+

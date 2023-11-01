@@ -1,0 +1,5 @@
+everything works fine. when page is refreshed previous jerseysBought data is rendered if available.
+however  totalCost,
+
+    VATCost,
+    grandTotalCost, all remain as 0 and dont recaliburate after previous  jerseysBought data is rendered. 

@@ -1,27 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  utline: 1px solid black;
+}
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --traeWhiteBlue:#e1f1fd;
+  --traeLiteBlue:#c1d8f0;
+  --traeBgBlue:#426df0;
+  --traeFifaBlue:#1077C3;
+  --traeSoccerBlue:#0070df;
+  --traeCoolGreen:#488691;
+  --traeCoolOrange:#f7931e;
+  --traeCoolRed:#9c0606;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
+/* 
+  --bbb:#00b8ff;
+  --ccc:#1574c4;
+  --hhh:rgb(0, 112, 223);
+  --fff:#0070df;
+  --ggg:#045694;
+  --aaa:rgb(4, 86, 148);
+  --black:black;
+  --white:white;
+  --iii:#49BCE3;
+  --jjj:#1077C3;
+*/
